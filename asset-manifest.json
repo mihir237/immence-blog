@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/immence-blog/static/css/main.3472413e.css",
+    "main.js": "/immence-blog/static/js/main.a272b2ca.js",
+    "static/js/787.e7e8b45c.chunk.js": "/immence-blog/static/js/787.e7e8b45c.chunk.js",
+    "index.html": "/immence-blog/index.html",
+    "main.3472413e.css.map": "/immence-blog/static/css/main.3472413e.css.map",
+    "main.a272b2ca.js.map": "/immence-blog/static/js/main.a272b2ca.js.map",
+    "787.e7e8b45c.chunk.js.map": "/immence-blog/static/js/787.e7e8b45c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3472413e.css",
+    "static/js/main.a272b2ca.js"
+  ]
+}
